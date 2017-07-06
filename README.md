@@ -1,2 +1,2 @@
 # hello-world
-Hello world, GitHub into 
+Hello world, GitHub intro 
